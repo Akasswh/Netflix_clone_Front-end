@@ -29,7 +29,7 @@ This project is a replica of the Netflix website, aiming to demonstrate the fron
 
 1. Clone the repository to your local machine using `git clone`.
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/Akasswh/Netflix_clone_Front-end.git
 
 
 ## USAGE
